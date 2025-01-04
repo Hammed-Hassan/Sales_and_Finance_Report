@@ -11,8 +11,11 @@
 - Identifying sales patterns and tracking key performance indicators (KPIs) to guide strategic decisions.
 
 **Role of Reports:**
+
 **1.** Determine effective customer discount strategies.
+
 **2.** Facilitate negotiations with consumers.
+
 **3.** Identify potential opportunities for business expansion into promising markets.
 
 ## Finance Report
@@ -27,7 +30,9 @@
 - Aids in benchmarking against industry peers and previous periods, providing a foundation for budgeting and forecasting.
 
 **Role of Reports:**
+
 **1.** Align financial planning with strategic business goals.
+
 **2.** Instill confidence in the organization's financial outlook among investors and management.
 
 ## Technical & Soft Skills
@@ -45,4 +50,4 @@
 - [x] Optimization: Meticulous fine-tuning to optimize report generation speed and accuracy.
 - [x] Systematic Approach: Developing a thorough plan for building effective and informative reports.
 
-This project aims to leverage both technical prowess and interpersonal skills to create actionable, insightful reports that drive business growth and strategic decision-making.
+**This project aims to leverage both technical prowess and interpersonal skills to create actionable, insightful reports that drive business growth and strategic decision-making.**

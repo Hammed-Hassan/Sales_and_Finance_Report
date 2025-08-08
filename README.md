@@ -50,6 +50,21 @@ The business has shown remarkable growth, demonstrating strong market presence. 
 
 **2.** Instill confidence in the organization's financial outlook among investors and management.
 
+### Key Findings and Insights
+- Financial Performance: The company saw explosive growth from 2019 to 2021, with net sales increasing from $87M to $599M. This represents a 304.48% increase in a single year (2020-2021). Gross Margin also saw a healthy increase of 297.55% in the same period.
+- Market Performance: Despite the massive growth, the company's Gross Margin Percentage (GM%) has declined year-over-year, from 41.43% in 2019 to 36.43% in 2021.
+- Country Performance: India ($161M) and the USA ($88M) are the top-performing markets in terms of Net Sales for 2021. New Zealand and China have the highest Gross Margin Percentages, at 48.23% and 41.07% respectively.
+- Quarterly Performance: The highest-performing quarter in terms of Net Sales was Q2 at $119M, followed by Q4 at $88M. The Gross Margin Percentage remained relatively stable across all quarters, with an overall average of 37.11%.
+
+### Recommendations
+- Address Declining GM%: Investigate the reasons for the year-over-year decline in the Gross Margin Percentage. This could be due to increasing costs of goods sold (COGS), which have grown at a slightly faster rate than net sales. Identify opportunities to reduce costs or increase prices to improve profitability.
+- Focus on High-Margin Markets: While India and the USA are the largest contributors to sales, it is recommended to analyze the strategies in high-margin countries like New Zealand and China to see if their success can be replicated elsewhere.
+- Leverage Quarterly Insights: Analyze the strong performance in Q2 to understand the key factors contributing to the high sales volume. Use these insights to boost sales in other quarters.
+
+### Conclusion
+The business has shown remarkable growth in net sales, demonstrating a strong and expanding market presence. However, this growth has come at the expense of profitability, as indicated by the declining Gross Margin Percentage. To ensure sustained and profitable growth, the company must focus on improving its Gross Margin, particularly by addressing the rising COGS and learning from the successful strategies of its high-margin markets.
+
+#
 ## Technical & Soft Skills
 **Technical Skills:**
 - [x] ETL Methodology: Proficient in Extract, Transform, Load processes for data integration.

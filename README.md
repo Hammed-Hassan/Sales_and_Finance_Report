@@ -18,6 +18,21 @@
 
 **3.** Identify potential opportunities for business expansion into promising markets.
 
+### Key Findings and Insights
+- Financial Performance: The company saw explosive growth from 2019 to 2021, with sales increasing from $87.48M to $598.88M. This represents a 304.48% increase in a single year (2020-2021).
+- Market Performance vs. Target: Despite the massive growth, the company missed its 2021 target by 9.2%, a deficit of $54.94M.
+- Underperforming Markets: Several countries were key contributors to the missed target, with Poland (-18.1%), Canada (-14.5%), and Spain (-14.1%) showing the largest negative variances.
+- Top Contributing Customers: Amazon ($82.09M) and Euronics ($30.56M) were the top-performing customers in 2021.
+- High-Growth Customers: Customers like Novus and Boulanger experienced explosive growth, increasing their sales by over 400% from the previous year.
+
+### Recommendations
+- Focus on Underperforming Markets: Conduct a detailed analysis of countries like Poland, Canada, and Spain to determine the reasons for their low performance. Adjust sales strategies, marketing efforts, or re-evaluate targets in these regions.
+- Engage with Top Customers: Maintain and strengthen relationships with top contributors like Amazon, Euronics, and Walmart. Explore opportunities for tailored promotions or new partnerships.
+- Investigate High-Growth Customers: Analyze the strategies that led to the success of customers like Novus and Boulanger to see if these models can be applied to other customers or markets.
+
+### Conclusion
+The business has shown remarkable growth, demonstrating strong market presence. However, the missed 2021 target highlights a need to address significant underperformance in key markets. By rectifying these issues and leveraging insights from top-performing customers and high-growth areas, the company can both sustain its growth and exceed future sales targets.
+
 ## Finance Report
 **Project Objectives:**
 - Create [Profit and Loss (P&L) Reports by Fiscal Year](https://github.com/Midoford/Sales_Analysis/blob/main/P%26L_by_Year.pdf) & [Profit and Loss (P&L) Reports by  Months](https://github.com/Midoford/Sales_Analysis/blob/main/P%26L_by_Month.pdf): Provide detailed financial insights over different time periods to understand seasonal trends and annual performance.

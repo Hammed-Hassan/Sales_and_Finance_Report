@@ -2,6 +2,9 @@
 ## Sales Report**
 **Project Objectives:**
 -  Create a [Customer Performance Report](https://github.com/Midoford/Sales_Analysis/blob/main/Customer_Performance_Report.pdf): This involves analyzing individual customer data to assess their contribution to sales.
+
+![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/Customer_Performance_Report.pdf)
+
 - Conduct a [Market Performance vs Target](https://github.com/Midoford/Sales_Analysis/blob/main/Marekt_Performance_vs_Target.pdf): Comparing actual market performance against set sales targets to evaluate effectiveness and identify areas for improvement.
 
 **Purpose of Sales Analytics:**

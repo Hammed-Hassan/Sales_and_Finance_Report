@@ -3,8 +3,6 @@
 **Project Objectives:**
 -  Create a [Customer Performance Report](https://github.com/Midoford/Sales_Analysis/blob/main/Customer_Performance_Report.pdf): This involves analyzing individual customer data to assess their contribution to sales.
 
-![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/Customer_Performance_Report.pdf)
-
 - Conduct a [Market Performance vs Target](https://github.com/Midoford/Sales_Analysis/blob/main/Marekt_Performance_vs_Target.pdf): Comparing actual market performance against set sales targets to evaluate effectiveness and identify areas for improvement.
 
 **Purpose of Sales Analytics:**
@@ -20,6 +18,14 @@
 **2.** Facilitate negotiations with consumers.
 
 **3.** Identify potential opportunities for business expansion into promising markets.
+
+**Report Visual**
+
+- Customer Performance Report
+![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/1.png)
+
+- Market Performance Report
+![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/2.png)
 
 ### Key Findings and Insights
 - Financial Performance: The company saw explosive growth from 2019 to 2021, with sales increasing from $87.48M to $598.88M. This represents a 304.48% increase in a single year (2020-2021).
@@ -52,6 +58,14 @@ The business has shown remarkable growth, demonstrating strong market presence. 
 **1.** Align financial planning with strategic business goals.
 
 **2.** Instill confidence in the organization's financial outlook among investors and management.
+
+**Report Visual**
+
+- Profit and Loss by Year Report
+![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/1.png)
+
+- Profit and Loss by Year Report
+![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/2.png)
 
 ### Key Findings and Insights
 - Financial Performance: The company saw explosive growth from 2019 to 2021, with net sales increasing from $87M to $599M. This represents a 304.48% increase in a single year (2020-2021). Gross Margin also saw a healthy increase of 297.55% in the same period.

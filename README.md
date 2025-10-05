@@ -67,6 +67,9 @@ The business has shown remarkable growth, demonstrating strong market presence. 
 - Profit and Loss by Year Report
 ![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/2.png)
 
+- Profit and Loss by Market Report
+![Alt text for the image](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/2.png)
+
 ### Key Findings and Insights
 - Financial Performance: The company saw explosive growth from 2019 to 2021, with net sales increasing from $87M to $599M. This represents a 304.48% increase in a single year (2020-2021). Gross Margin also saw a healthy increase of 297.55% in the same period.
 - Market Performance: Despite the massive growth, the company's Gross Margin Percentage (GM%) has declined year-over-year, from 41.43% in 2019 to 36.43% in 2021.

@@ -3,7 +3,7 @@
 **Project Objectives:**
 -  Create a [Customer Performance Report](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/11.png): This involves analyzing individual customer data to assess their contribution to sales.
 
-- Conduct a [Market Performance vs Target](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/11.png): Comparing actual market performance against set sales targets to evaluate effectiveness and identify areas for improvement.
+- Conduct a [Market Performance vs Target](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/12.png): Comparing actual market performance against set sales targets to evaluate effectiveness and identify areas for improvement.
 
 **Purpose of Sales Analytics:**
 - To empower businesses to monitor and evaluate their sales activities and performance.

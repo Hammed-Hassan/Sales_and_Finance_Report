@@ -44,8 +44,8 @@ The business has shown remarkable growth, demonstrating strong market presence. 
 
 ## Finance Report
 **Project Objectives:**
-- Create [Profit and Loss (P&L) Reports by Fiscal Year](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/11.png) & [Profit and Loss (P&L) Reports by  Months](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/13.png): Provide detailed financial insights over different time periods to understand seasonal trends and annual performance.
-- Create [Profit and Loss (P&L) Reports by Markets](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/12.png): Analyze financial performance across various markets to see where the company stands in different regions.
+- Create [Profit and Loss (P&L) Reports by Fiscal Year](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/1.png) & [Profit and Loss (P&L) Reports by  Months](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/3.png): Provide detailed financial insights over different time periods to understand seasonal trends and annual performance.
+- Create [Profit and Loss (P&L) Reports by Markets](https://github.com/Hammed-Hassan/Sales_and_Finance_Report/blob/main/2.png): Analyze financial performance across various markets to see where the company stands in different regions.
 
 **Purpose of Financial Analytics:**
 - Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
